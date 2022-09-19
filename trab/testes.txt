@@ -1,0 +1,8 @@
+Testes para copiar e colocar na entrada
+
+A, B, a, A , b, A
+A, A, B, a , b, A, B, B, B, a , b, A
+A, B, B, A , a, b, A, B, A, a, b
+A, A, A, B , B, A, A, B
+B, B, b, b , a, A, a, b
+B, A, A, b , a, B, A, B, B, a
